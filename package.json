@@ -1,0 +1,24 @@
+{
+  "name": "api-blueprint-validator-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/blueprint-parser.js",
+  "author": "Marcelo Garcia",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Aconex/grunt-blueprint-validator/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "api blueprint validator module"
+  ],
+  "dependencies": {
+    "async": "^1.4.2",
+    "colors": "^1.1.2",
+    "glob": "^5.0.14",
+    "lodash": "^3.10.1",
+    "protagonist": "^1.2.2",
+    "tv4": "^1.2.3"
+  }
+}
